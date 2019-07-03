@@ -37,7 +37,8 @@ namespace Exersice1
                 a *= a;
             }
             return result;
-        }
+        }
+
         static double Naive(int n, int p)
         {
             double sum=n;
